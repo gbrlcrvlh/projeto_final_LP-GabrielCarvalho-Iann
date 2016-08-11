@@ -1,0 +1,9 @@
+3.
+
+	A linguagem de programação Haskell, tem como paradigma o funcional, sendo baseado em funções diferentemente do paradigma
+imperativo, ele utiliza expressões em formas de funções sem efeitos colaterais, ou seja, a função ira somente calcular algo e
+devolve-lo um resultado.
+	Uma das principais vantagens da linguagem funcional é a ausência de operações de atribuição tornando os programas 
+funcionais muito mais simples para provas e análises matemáticas,tambem por a linguagem funcional não ser dependente das operações de 
+atribuição permite aos programas avaliações em diferentes ordens, isso torna as linguagens funcionais umas das melhores para programação
+de computadores paralelos. Uma desvantagens desse paradigma é sua pouca eficiencia.
